@@ -1,6 +1,8 @@
 # planets
 Repo created for OU Lib version control workshop
 
+## header 2
+
 ### header 3
 
 Paragraph #1
